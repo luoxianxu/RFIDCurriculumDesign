@@ -1,2 +1,4 @@
 # RFIDCurriculumDesign
 该项目为RFID的课程设计
+使用方法直接make就可以
+前提条件：由于该项目中使用sqlite数据库，所以需要提前将sqlite移植到linux开发板，与此同时交叉编译工具链需要改成自己的
